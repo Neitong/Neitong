@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keo Hengneitong</h1>
 <h3 align="center">A passionate frontend developer from Cambodia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neitong" alt="neitong" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neitong" alt="neitong" /></a> </p> -->
 
 - 🔭 I’m currently working on [Komplex](komplex.app)
 
