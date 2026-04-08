@@ -43,7 +43,3 @@
 
   <br/>
   <br/>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salxz696969&theme=react&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /><br/><br/>
-</div>
