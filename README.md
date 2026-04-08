@@ -22,7 +22,6 @@
   <h3 align="center">🔗 Backend Framework:</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
   </p>
 
   <h3 align="center">📔 Full Stack Framework:</h3>
